@@ -1,13 +1,12 @@
 # Buggy Python
 
 ## Description
-This repository contains several buggy python scripts. The purpose of the introduction of bugs is to test your attention to detail and problem solving skills.
+This repository originally contained several buggy python scripts. These are my solutions to the bugs.
 
 ## Requirements
-The requirements for this project are simple and are as follows:
-- Python3
+This code is written in Python 3 and requires no further installations to run.
 
 ## Instructions
-Do not modify the existing logic, just find the bug in the code snippets and correct it.
+We were not allowed to modify the existing logic, just find the bug in the code snippets and correct it.
 The expected output when running the script is displayed in `main.py`
-Do not modify the `main.py` file.
+In addition we were not allowed to modify the `main.py` file.
