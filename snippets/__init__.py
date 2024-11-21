@@ -1,3 +1,3 @@
-from .loop import lambda_array
+from .loop import *
 from .io import *
-from .foobar import foo
+from .foobar import *
